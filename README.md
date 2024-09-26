@@ -17,8 +17,8 @@ Ce projet démontre comment intégrer un serveur FastAPI avec une API de modèle
 1. **Clonez le dépôt :**
 
    ```bash
-   git clone https://github.com/votreutilisateur/votreprojet.git
-   cd votreprojet
+   git clone https://github.com/super-sonic1/facturationapi.git
+   cd facturationapi
    ```
    **voir le code**
 
