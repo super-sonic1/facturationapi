@@ -65,7 +65,7 @@ Ce projet démontre comment intégrer un serveur FastAPI avec une API de modèle
 
 ## Utilisation
 
-### POST /process/
+### POST /api/facturation
 
 Ce point de terminaison traite le contenu fourni en utilisant le LLM et renvoie les informations extraites.
 
