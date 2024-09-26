@@ -24,21 +24,7 @@ Ce projet démontre comment intégrer un serveur FastAPI avec une API de modèle
 
 2. **Créez un environnement virtuel : avec Conda**
 
-    **créer un fichier environment.yml**
-
-   ```yml
-    name: json
-    channels:
-    - conda-forge
-    dependencies:
-    - python=3.11
-    - pydantic=1.10.12
-    - pip
-    - pip:
-        - openai==1.42.0
-        - rich==13.7.1
-        - typer==0.12.4
-   ```
+   
     **créer ensuite l'env avec conda**
 
     ```bash
